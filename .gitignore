@@ -10,6 +10,7 @@ __pycache__/
 yeg_traffic_downloader/client_secrets.json
 
 .DS_Store
+.idea/
 
 # Distribution / packaging
 .Python
